@@ -101,14 +101,15 @@
 <div id="superfan" class="page">
     <div class="header">SPECIAL FAN CLUB</div>
     <h1>❤️‍🔥What my superfans grant ⬇️</h1>
-    <p>📍Daily New Content (including immediate access to upon subscription)</p>
-    <p>📍Exclusive content</p>
-    <p>📌Special merchandise</p>
-    <p>📍Behind-the-scenes videos</p>
+    <p>📍Daily New Content (over 500 sexy& nudes pics including vids you get immediate access to upon subscription)</p>
+    <p>📍B/G and Solo content (PPV)</p>
+    <p>📌I sell my panties</p>
+    <p>📍Twerk videos</p>
     <p>❣️Video calls</p>
     <p>🥰 Unlimited chat</p>
     <p>❣️Exclusive videos</p>
-    <p>❣️Meet-and-greet opportunities</p>
+    <p>❣️Masturbating video</p>
+    <p>❣️Random meeting</p>
     <p>📌One-on-one messaging 24/7</p>
     <button onclick="showPage('membership')">Next</button>
 </div>
