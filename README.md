@@ -121,8 +121,7 @@
         <label for="membershipType">Choose Membership:</label>
         <select id="membershipType" required>
             <option value="">Select Membership</option>
-            <option value="regular">$40 Regular</option>
-            <option value="premium">$80 Premium</option>
+            <option value="regular">$30 Regular</option>
         </select><br>
         <label for="communication">Preferred Mode of Communication:</label>
         <select id="communication" required>
@@ -153,7 +152,7 @@
     <h1>Subscription Confirmation</h1>
     <form id="confirmationForm">
         <p>To proceed with your subscription, please confirm your agreement to the subscription amount.</p>
-        <p>By checking this box, you acknowledge and agree to the annual subscription fee of $40.</p>
+        <p>By checking this box, you acknowledge and agree to the annual subscription fee of $30.</p>
         <label>
             <input type="checkbox" id="agreementCheckbox" required> I agree
         </label><br>
